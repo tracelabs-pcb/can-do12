@@ -13,7 +13,7 @@ zusätzlich USB-C Service-Port für Parametrierung und Diagnose.
 Entwickelt als Prototyp für Prüfstands- und Sondermaschinenbau.
 
 **Besonderheiten:**
-- 12x High-Side Ausgänge (24V / 0.5A je Kanal)
+- 12x High-Side Ausgänge (24V / 1A je Kanal)
 - CAN 2.0B (1 Mbit/s) + USB-C Full-Speed Device
 - TVS + Verpolschutz am 24V Eingang
 - ESD-Schutz an CAN und USB
